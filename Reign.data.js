@@ -173,6 +173,6 @@ Module['FS_createPath']('/Reign/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 83, "filename": "/UE4CommandLine.txt"}, {"start": 83, "audio": 0, "end": 36755258, "filename": "/Reign/Content/Paks/Reign-HTML5.pak"}], "remote_package_size": 36755258, "package_uuid": "e93f299d-1142-4f77-80ee-1238e07d2d19"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 83, "filename": "/UE4CommandLine.txt"}, {"start": 83, "audio": 0, "end": 36755340, "filename": "/Reign/Content/Paks/Reign-HTML5.pak"}], "remote_package_size": 36755340, "package_uuid": "6388e40e-5fbb-49ad-a25f-f4256c295222"});
 
 })();
